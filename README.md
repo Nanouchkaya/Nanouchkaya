@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello there 👋
+
+
+I have kind of a love-hate relationship with coding since highschool. I hope to get better in frontend development and I'm curious about SVG animation. Currently, I'm working on jamstack projects.
+
+I also love cooking, cats and dogs, nature and moutain walks :mount_fuji:
+
 
 <!--
 **Nanouchkaya/Nanouchkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
